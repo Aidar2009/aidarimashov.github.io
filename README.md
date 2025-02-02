@@ -1,0 +1,2 @@
+# aidarimashov.github.io
+firstprojectongithub
